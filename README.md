@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.ibb.co/HBQZ9kH/Lovepik-com-380592409-computer-programmer-vector-cartoon-sticker.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🖖 Olá, meu nome é <strong>Marcos Paulo!</strong>
 <h3> Conhecido também como Smiith, sou Amante da tecnologia e da programação!</h3>
