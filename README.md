@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 🖖 Olá, meu nome é <strong>Marcos Paulo!</strong>
-<h3> Amante da tecnologia e da programação!</h3>
+<h3> Conhecido também como Smiith, sou Amante da tecnologia e da programação!</h3>
 
 - 💻 Iniciando nas novas tecnologias e desenvolvendo projetos.
 - 🎓 Faculdade em **Analise e Desenvolvimento de Sistemas** (Em Progresso) pela <a href="https://www.unip.br">UNIP</a>.
