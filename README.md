@@ -1,5 +1,3 @@
-
-
 ## 🖖 Olá, meu nome é <strong>Marcos Paulo!</strong>
 <h3> Conhecido também como Smiith, sou Amante da tecnologia e da programação!</h3>
 
