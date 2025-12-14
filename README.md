@@ -2,8 +2,7 @@
 <h3> Conhecido também como Smiith, sou Amante da tecnologia e da programação!</h3>
 
 - 💻 Iniciando nas novas tecnologias e desenvolvendo projetos.
-- 🎓 Faculdade em **Análise e Desenvolvimento de Sistemas** (Em Progresso) pela <a href="https://www.unip.br">UNIP</a>.
-- 💼 Trabalhando como **Suporte Técnico II** na <a href="https://cistecnologia.com.br/">CIS Tecnologia</a>.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unip.br">UNIP</a>.
 - 💼 Trabalhando como **Desenvolvedor Júnior** nas horas vagas
 
 ## 🚀 Minhas Skills (Aprendendo)
