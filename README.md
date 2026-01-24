@@ -3,7 +3,8 @@
 
 - 💻 Iniciando nas novas tecnologias e desenvolvendo projetos.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unip.br">UNIP</a>.
-- 💼 Trabalhando como **Desenvolvedor Júnior** nas horas vagas
+- 💼 Atualmente **Desenvolvedor Júnior FullStack**
+- 💻 Analista em **Automações IA com n8n**
 
 ## 🚀 Minhas Skills (Aprendendo)
 
