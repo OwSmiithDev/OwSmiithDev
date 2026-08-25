@@ -40,21 +40,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/donut-light.svg">
     <img height="300" src="./assets/donut.svg" alt="Linguagens mais usadas no perfil">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="./assets/stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
-    <img height="300" src="./assets/stats.svg" alt="Estatísticas do GitHub">
-  </picture>
 </p>
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="./assets/langs.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/langs-light.svg">
-    <img height="300" src="./assets/langs.svg" alt="Distribuição de linguagens">
-  </picture>
-</p>
-
 <sub>
 Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">gh-gadgets</a>.
 </sub>
