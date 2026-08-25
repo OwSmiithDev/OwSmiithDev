@@ -37,24 +37,31 @@
     <g transform="rotate(-90 145 78)">
       <circle cx="145" cy="78" r="68"
         fill="none" stroke="#3178c6" stroke-width="20"
-        stroke-dasharray="210.63 216.63"
+        stroke-dasharray="157.22 270.04"
         stroke-dashoffset="0.00"
         class="fade" style="animation-delay:0ms">
-        <title>TypeScript — 50.0%</title>
+        <title>TypeScript — 37.5%</title>
+      </circle>
+      <circle cx="145" cy="78" r="68"
+        fill="none" stroke="#f1e05a" stroke-width="20"
+        stroke-dasharray="103.81 323.44"
+        stroke-dashoffset="-160.22"
+        class="fade" style="animation-delay:90ms">
+        <title>JavaScript — 25.0%</title>
       </circle>
       <circle cx="145" cy="78" r="68"
         fill="none" stroke="#e34c26" stroke-width="20"
-        stroke-dasharray="139.42 287.84"
-        stroke-dashoffset="-213.63"
-        class="fade" style="animation-delay:90ms">
-        <title>HTML — 33.3%</title>
+        stroke-dasharray="103.81 323.44"
+        stroke-dashoffset="-267.04"
+        class="fade" style="animation-delay:180ms">
+        <title>HTML — 25.0%</title>
       </circle>
       <circle cx="145" cy="78" r="68"
         fill="none" stroke="#3572A5" stroke-width="20"
-        stroke-dasharray="68.21 359.05"
-        stroke-dashoffset="-356.05"
-        class="fade" style="animation-delay:180ms">
-        <title>Python — 16.7%</title>
+        stroke-dasharray="50.41 376.85"
+        stroke-dashoffset="-373.85"
+        class="fade" style="animation-delay:270ms">
+        <title>Python — 12.5%</title>
       </circle>
     </g>
 
@@ -65,22 +72,29 @@
         <image x="0" y="-11" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMwMDdBQ0MiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01Ni42MTEyIDEyOC44NDlMNTYuNTI5OSAxMzkuMzMzSDczLjE5MDJIODkuODUwNUw4OS44NTA1IDE4Ni42NzNWMjM0LjAxMkgxMDEuNjM1SDExMy40MTlWMTg2LjY3M0wxMTMuNDE5IDEzOS4zMzNIMTMwLjA3OUgxNDYuNzM5VjEyOS4wNTJDMTQ2LjczOSAxMjMuMzYzIDE0Ni42MTggMTE4LjYwOSAxNDYuNDU1IDExOC40ODdDMTQ2LjMzMyAxMTguMzI1IDEyNi4wNTYgMTE4LjI0MyAxMDEuNDcyIDExOC4yODRMNTYuNzMzMSAxMTguNDA2TDU2LjYxMTIgMTI4Ljg0OVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjA2LjU2NyAxMTguMTA4QzIxMy4wNjggMTE5LjczNCAyMTguMDI2IDEyMi42MTkgMjIyLjU3NyAxMjcuMzMyQzIyNC45MzQgMTI5Ljg1MiAyMjguNDI4IDEzNC40NDQgMjI4LjcxMyAxMzUuNTQxQzIyOC43OTQgMTM1Ljg2NiAyMTcuNjYgMTQzLjM0MyAyMTAuOTE1IDE0Ny41MjhDMjEwLjY3MSAxNDcuNjkxIDIwOS42OTUgMTQ2LjYzNCAyMDguNTk4IDE0NS4wMDlDMjA1LjMwNyAxNDAuMjE0IDIwMS44NTMgMTM4LjE0MSAxOTYuNTcgMTM3Ljc3NkMxODguODA5IDEzNy4yNDcgMTgzLjgxMSAxNDEuMzExIDE4My44NTIgMTQ4LjA5N0MxODMuODUyIDE1MC4wODggMTg0LjEzNiAxNTEuMjY2IDE4NC45NDkgMTUyLjg5MkMxODYuNjU1IDE1Ni40MjcgMTg5LjgyNSAxNTguNTQgMTk5Ljc4MSAxNjIuODQ3QzIxOC4xMDcgMTcwLjczMSAyMjUuOTQ5IDE3NS45MzIgMjMwLjgyNiAxODMuMzI3QzIzNi4yNzEgMTkxLjU3NiAyMzcuNDkgMjA0Ljc0MiAyMzMuNzkyIDIxNC41MzVDMjI5LjcyOSAyMjUuMTgxIDIxOS42NTEgMjMyLjQxNCAyMDUuNDY5IDIzNC44MTJDMjAxLjA4MSAyMzUuNTg0IDE5MC42NzggMjM1LjQ2MiAxODUuOTY1IDIzNC42MDlDMTc1LjY4NCAyMzIuNzggMTY1LjkzMiAyMjcuNzAxIDE1OS45MTggMjIxLjAzN0MxNTcuNTYxIDIxOC40MzYgMTUyLjk2OSAyMTEuNjUgMTUzLjI1NCAyMTEuMTYyQzE1My4zNzUgMjExIDE1NC40MzIgMjEwLjM1IDE1NS42MSAyMDkuNjU5QzE1Ni43NDggMjA5LjAwOSAxNjEuMDU2IDIwNi41MyAxNjUuMTE5IDIwNC4xNzNMMTcyLjQ3NCAxOTkuOTA2TDE3NC4wMTggMjAyLjE4MkMxNzYuMTcyIDIwNS40NzMgMTgwLjg4NSAyMDkuOTg0IDE4My43MyAyMTEuNDg3QzE5MS44OTcgMjE1Ljc5NSAyMDMuMTEzIDIxNS4xODUgMjA4LjYzOSAyMTAuMjI4QzIxMC45OTYgMjA4LjA3NCAyMTEuOTcxIDIwNS44MzkgMjExLjk3MSAyMDIuNTQ4QzIxMS45NzEgMTk5LjU4MSAyMTEuNjA1IDE5OC4yODEgMjEwLjA2MSAxOTYuMDQ2QzIwOC4wNyAxOTMuMjAyIDIwNC4wMDcgMTkwLjgwNCAxOTIuNDY2IDE4NS44MDZDMTc5LjI2IDE4MC4xMTcgMTczLjU3MSAxNzYuNTgyIDE2OC4zNyAxNzAuOTc0QzE2NS4zNjMgMTY3LjcyNCAxNjIuNTE4IDE2Mi41MjIgMTYxLjM0IDE1OC4xNzRDMTYwLjM2NSAxNTQuNTU4IDE2MC4xMjEgMTQ1LjQ5NiAxNjAuODkzIDE0MS44MzlDMTYzLjYxNSAxMjkuMDggMTczLjI0NiAxMjAuMTgxIDE4Ny4xNDMgMTE3LjUzOUMxOTEuNjU0IDExNi42ODYgMjAyLjEzNyAxMTcuMDExIDIwNi41NjcgMTE4LjEwOFoiLz48L3N2Zz4="
           preserveAspectRatio="xMidYMid meet" />
         <text x="22" y="0" class="t-legend">TypeScript</text>
-        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">50,0%</text>
-        <title>TypeScript — 50,0%</title>
+        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">37,5%</text>
+        <title>TypeScript — 37,5%</title>
       </g>
     <g transform="translate(145.0, 186)" class="fade" style="animation-delay:270ms">
+        <image x="0" y="-11" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiNGMERCNEYiLz4KPHBhdGggZD0iTTY3LjMxMTcgMjEzLjkzMkw4Ni45MDI3IDIwMi4wNzZDOTAuNjgyMSAyMDguNzc3IDk0LjEyMDIgMjE0LjQ0NyAxMDIuMzY3IDIxNC40NDdDMTEwLjI3MiAyMTQuNDQ3IDExNS4yNTYgMjExLjM1NSAxMTUuMjU2IDE5OS4zMjdWMTE3LjUyOUgxMzkuMzE0VjE5OS42NjdDMTM5LjMxNCAyMjQuNTg0IDEyNC43MDggMjM1LjkyNiAxMDMuMzk4IDIzNS45MjZDODQuMTUzMyAyMzUuOTI2IDcyLjk4MTkgMjI1Ljk1OSA2Ny4zMTEzIDIxMy45MyIgZmlsbD0iIzMyMzMzMCIvPgo8cGF0aCBkPSJNMTUyLjM4MSAyMTEuMzU0TDE3MS45NjkgMjAwLjAxM0MxNzcuMTI2IDIwOC40MzQgMTgzLjgyOCAyMTQuNjIgMTk1LjY4NCAyMTQuNjJDMjA1LjY1MyAyMTQuNjIgMjEyLjAwOSAyMDkuNjM2IDIxMi4wMDkgMjAyLjc2MkMyMTIuMDA5IDE5NC41MTQgMjA1LjQ3OSAxOTEuNTkyIDE5NC40ODEgMTg2Ljc4MkwxODguNDY4IDE4NC4yMDNDMTcxLjExMSAxNzYuODE1IDE1OS41OTcgMTY3LjUzNSAxNTkuNTk3IDE0Ny45NDVDMTU5LjU5NyAxMjkuOTAxIDE3My4zNDUgMTE2LjE1MyAxOTQuODI2IDExNi4xNTNDMjEwLjEyIDExNi4xNTMgMjIxLjExOCAxMjEuNDgxIDIyOS4wMjIgMTM1LjRMMjEwLjI5MSAxNDcuNDI5QzIwNi4xNjYgMTQwLjA0IDIwMS43IDEzNy4xMTkgMTk0LjgyNiAxMzcuMTE5QzE4Ny43OCAxMzcuMTE5IDE4My4zMTIgMTQxLjU4NyAxODMuMzEyIDE0Ny40MjlDMTgzLjMxMiAxNTQuNjQ2IDE4Ny43OCAxNTcuNTY4IDE5OC4wOSAxNjIuMDM3TDIwNC4xMDQgMTY0LjYxNEMyMjQuNTUzIDE3My4zNzkgMjM2LjA2NyAxODIuMzEzIDIzNi4wNjcgMjAyLjQxOEMyMzYuMDY3IDIyNC4wNzIgMjE5LjA1NSAyMzUuOTI4IDE5Ni4yIDIzNS45MjhDMTczLjg2MSAyMzUuOTI4IDE1OS40MjYgMjI1LjI3NCAxNTIuMzgxIDIxMS4zNTQiIGZpbGw9IiMzMjMzMzAiLz4KPC9zdmc+"
+          preserveAspectRatio="xMidYMid meet" />
+        <text x="22" y="0" class="t-legend">JavaScript</text>
+        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">25,0%</text>
+        <title>JavaScript — 25,0%</title>
+      </g>
+    <g transform="translate(0.0, 208)" class="fade" style="animation-delay:360ms">
         <image x="0" y="-11" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNFMTRFMUQiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00OCAzOEw1Ni42MDk4IDEzNC41OTNIMTY3LjMyTDE2My42MDUgMTc2LjAyM0wxMjcuOTU5IDE4NS42NjFMOTIuMzggMTc2LjAzN0w5MC4wMDEyIDE0OS40MzVINTcuOTM4OUw2Mi41MjM2IDIwMC43MTZMMTI3Ljk1MSAyMTguODg4TDE5My40NjEgMjAwLjcxNkwyMDIuMjQ0IDEwMi42NTVIODUuODI0MUw4Mi45MDEgNjkuOTQ0OEgyMDUuMDQxSDIwNS4xMzlMMjA4IDM4SDQ4WiIvPjxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0xMjggMzhINDhMNTYuNjA5OCAxMzQuNTkzSDEyOFYxMDIuNjU1SDg1LjgyNDFMODIuOTAxIDY5Ljk0NDhIMTI4VjM4WiIvPjxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0xMjggMTg1LjY0N0wxMjcuOTU5IDE4NS42NjFMOTIuMzggMTc2LjAzN0w5MC4wMDEyIDE0OS40MzVINTcuOTM4OEw2Mi41MjM2IDIwMC43MTZMMTI3Ljk1MSAyMTguODg4TDEyOCAyMTguODc0VjE4NS42NDdaIi8+PC9zdmc+"
           preserveAspectRatio="xMidYMid meet" />
         <text x="22" y="0" class="t-legend">HTML</text>
-        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">33,3%</text>
-        <title>HTML — 33,3%</title>
+        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">25,0%</text>
+        <title>HTML — 25,0%</title>
       </g>
-    <g transform="translate(0.0, 208)" class="fade" style="animation-delay:360ms">
+    <g transform="translate(145.0, 208)" class="fade" style="animation-delay:450ms">
         <image x="0" y="-11" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMyNDI5MzgiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl8yXzQ3KSIgZD0iTTEyNy4yNzkgMjlDNzYuNTA2NiAyOSA3OS42NzcyIDUxLjAxOCA3OS42NzcyIDUxLjAxOEw3OS43MzM4IDczLjgyODRIMTI4LjE4NVY4MC42NzcySDYwLjQ4OTNDNjAuNDg5MyA4MC42NzcyIDI4IDc2Ljk5MjYgMjggMTI4LjIyMkMyOCAxNzkuNDUyIDU2LjM1NzMgMTc3LjYzNiA1Ni4zNTczIDE3Ny42MzZINzMuMjgxMlYxNTMuODYzQzczLjI4MTIgMTUzLjg2MyA3Mi4zNjkgMTI1LjUwNiAxMDEuMTg2IDEyNS41MDZIMTQ5LjI0QzE0OS4yNCAxMjUuNTA2IDE3Ni4yMzkgMTI1Ljk0MiAxNzYuMjM5IDk5LjQxMjNWNTUuNTQ2MUMxNzYuMjM5IDU1LjU0NjEgMTgwLjMzOCAyOSAxMjcuMjc5IDI5Wk0xMDAuNTYzIDQ0LjMzOUMxMDUuMzg0IDQ0LjMzOSAxMDkuMjggNDguMjM1MSAxMDkuMjggNTMuMDU1NkMxMDkuMjggNTcuODc2MSAxMDUuMzg0IDYxLjc3MjMgMTAwLjU2MyA2MS43NzIzQzk1Ljc0MjYgNjEuNzcyMyA5MS44NDY1IDU3Ljg3NjEgOTEuODQ2NSA1My4wNTU2QzkxLjg0NjUgNDguMjM1MSA5NS43NDI2IDQ0LjMzOSAxMDAuNTYzIDQ0LjMzOVoiLz48cGF0aCBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXJfMl80NykiIGQ9Ik0xMjguNzIxIDIyNy45NThDMTc5LjQ5MyAyMjcuOTU4IDE3Ni4zMjMgMjA1Ljk0MSAxNzYuMzIzIDIwNS45NDFMMTc2LjI2NiAxODMuMTNIMTI3LjgxNVYxNzYuMjgxSDE5NS41MTFDMTk1LjUxMSAxNzYuMjgxIDIyOCAxNzkuOTY2IDIyOCAxMjguNzM2QzIyOCA3Ny41MDYyIDE5OS42NDMgNzkuMzIzIDE5OS42NDMgNzkuMzIzSDE4Mi43MTlWMTAzLjA5NkMxODIuNzE5IDEwMy4wOTYgMTgzLjYzMSAxMzEuNDUzIDE1NC44MTQgMTMxLjQ1M0gxMDYuNzZDMTA2Ljc2IDEzMS40NTMgNzkuNzYwNyAxMzEuMDE2IDc5Ljc2MDcgMTU3LjU0NlYyMDEuNDEyQzc5Ljc2MDcgMjAxLjQxMiA3NS42NjE1IDIyNy45NTggMTI4LjcyMSAyMjcuOTU4Wk0xNTUuNDM3IDIxMi42MTlDMTUwLjYxNiAyMTIuNjE5IDE0Ni43MiAyMDguNzIzIDE0Ni43MiAyMDMuOTAzQzE0Ni43MiAxOTkuMDgyIDE1MC42MTYgMTk1LjE4NiAxNTUuNDM3IDE5NS4xODZDMTYwLjI1NyAxOTUuMTg2IDE2NC4xNTQgMTk5LjA4MiAxNjQuMTU0IDIwMy45MDNDMTY0LjE1NCAyMDguNzIzIDE2MC4yNTcgMjEyLjYxOSAxNTUuNDM3IDIxMi42MTlaIi8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyXzJfNDciIHgxPSI0Ny4yMiIgeDI9IjE0Ni4zMzMiIHkxPSI0Ni44OTYiIHkyPSIxNDUuMDIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjMzg3RUI4Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMzY2OTk0Ii8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MV9saW5lYXJfMl80NyIgeDE9IjEwOC4wNTYiIHgyPSIyMTQuNDkyIiB5MT0iMTA5LjkwNSIgeTI9IjIxMC41MjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjRkZFMDUyIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkZDMzMxIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PC9zdmc+"
           preserveAspectRatio="xMidYMid meet" />
         <text x="22" y="0" class="t-legend">Python</text>
-        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">16,7%</text>
-        <title>Python — 16,7%</title>
+        <text x="127.0" y="0" class="t-legend-val" text-anchor="end">12,5%</text>
+        <title>Python — 12,5%</title>
       </g>
   </g>
 </svg>
