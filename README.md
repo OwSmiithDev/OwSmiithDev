@@ -6,6 +6,7 @@
 - 💼 Atualmente **Desenvolvedor Júnior**
 - 💻 Analista em **Automações IA com n8n e Python**
 - 💻 Frontend's com vida!
+- 🛠️ Integrações com API's
 
 ## 🚀 Minhas Skills (Aprendendo)
 
