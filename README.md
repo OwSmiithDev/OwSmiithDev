@@ -35,9 +35,8 @@
 ### 📊 Estatísticas
 
 <a href="https://github.com/OwSmiithDev" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owsmiithdev&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://gh-gadgets.vercel.app/donut?username=owsmiithdev" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
-
 <br>
 
 ### 📱 Minhas redes:
