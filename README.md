@@ -56,10 +56,6 @@
 </p>
 
 <sub>
-Gerados duas vezes por dia por um
-<a href="https://github.com/OwSmiithDev/OwSmiithDev/actions">GitHub Action</a> e
-commitados neste repositório — imagem externa passaria pelo proxy <code>camo</code>,
-que cacheia por conta própria e deixaria os números velhos por horas.
 Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">gh-gadgets</a>.
 </sub>
 <br>
