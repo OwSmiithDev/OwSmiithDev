@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,discord,aws" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,discord,aws,git,github,netlify,notion,obsidian,postgres,postman,powershell,redis,sqlite,selenium,threejs," />
   </a>
 </p>
 
@@ -28,13 +28,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,windows,linux,ps,github,pytorch,anaconda" />
+    <img src="https://skillicons.dev/icons?i=react,vue,typescript,python,supabase,django,mongodb,js,html,css,nodejs,gcp,cloudflare,docker,codepen,github,pytorch,figma,vercel" />
   </a>
 </p>
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/owsmiithdev" title="ilustração do mapeamento de linguagens">
+<a href="https://github.com/OwSmiithDev" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owsmiithdev&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
