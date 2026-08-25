@@ -42,7 +42,7 @@
   </picture>
 </p>
 <sub>
-Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">gh-gadgets</a>.
+Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">GH-Gadgets</a>.
 </sub>
 <br>
 
