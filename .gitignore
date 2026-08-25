@@ -1,0 +1,31 @@
+# Dependências
+node_modules/
+
+# Segredos — o token vive no secret PAT_1 do repositório, nunca aqui.
+# Se um token for commitado, apagar o arquivo não resolve: ele continua no
+# histórico. Revogue no GitHub e gere outro.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ATENÇÃO: assets/ NÃO é ignorado aqui, de propósito.
+# É a pasta que o README referencia e que o workflow commita a cada execução.
+# Ignorá-la faria o card sumir do perfil.
+
+# Preview local com dados falsos
+preview/
+
+# Logs, temporários, editores, SO
+*.log
+.npm
+tmp/
+*.bak
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -34,9 +34,34 @@
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/OwSmiithDev" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://gh-gadgets.vercel.app/donut?username=owsmiithdev" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/donut.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/donut-light.svg">
+    <img height="300" src="./assets/donut.svg" alt="Linguagens mais usadas no perfil">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+    <img height="300" src="./assets/stats.svg" alt="Estatísticas do GitHub">
+  </picture>
+</p>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/langs.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/langs-light.svg">
+    <img height="300" src="./assets/langs.svg" alt="Distribuição de linguagens">
+  </picture>
+</p>
+
+<sub>
+Gerados duas vezes por dia por um
+<a href="https://github.com/OwSmiithDev/OwSmiithDev/actions">GitHub Action</a> e
+commitados neste repositório — imagem externa passaria pelo proxy <code>camo</code>,
+que cacheia por conta própria e deixaria os números velhos por horas.
+Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">gh-gadgets</a>.
+</sub>
 <br>
 
 ### 📱 Minhas redes:
