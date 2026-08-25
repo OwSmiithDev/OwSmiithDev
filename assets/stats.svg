@@ -31,11 +31,11 @@
       </g>
     <g transform="translate(231.5, 12)" class="fade" style="animation-delay:90ms">
         <text x="0" y="0" class="t-label">Contribuições</text>
-        <text x="213.5" y="0" class="t-value" text-anchor="end">35</text>
+        <text x="213.5" y="0" class="t-value" text-anchor="end">37</text>
       </g>
     <g transform="translate(0.0, 40)" class="fade" style="animation-delay:180ms">
         <text x="0" y="0" class="t-label">Commits</text>
-        <text x="213.5" y="0" class="t-value" text-anchor="end">31</text>
+        <text x="213.5" y="0" class="t-value" text-anchor="end">32</text>
       </g>
     <g transform="translate(231.5, 40)" class="fade" style="animation-delay:270ms">
         <text x="0" y="0" class="t-label">Pull requests</text>
