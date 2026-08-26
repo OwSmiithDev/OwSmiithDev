@@ -58,8 +58,8 @@
               stroke="#58a6ff" stroke-width="1.5" opacity="0.5" />
 
         <text x="86" y="38" class="t-stat-label">Estrelas</text>
-        <text x="86" y="66" class="t-stat-value">1</text>
-        <title>Estrelas: 1</title>
+        <text x="86" y="66" class="t-stat-value">2</text>
+        <title>Estrelas: 2</title>
       </g>
       <g transform="translate(238.7, 0)" class="fade" style="animation-delay:90ms">
         <rect x="0" y="0" width="226.7" height="88" rx="12"
@@ -75,8 +75,8 @@
               stroke="#58a6ff" stroke-width="1.5" opacity="0.5" />
 
         <text x="86" y="38" class="t-stat-label">Contribuições</text>
-        <text x="86" y="66" class="t-stat-value">40</text>
-        <title>Contribuições: 40</title>
+        <text x="86" y="66" class="t-stat-value">41</text>
+        <title>Contribuições: 41</title>
       </g>
       <g transform="translate(477.3, 0)" class="fade" style="animation-delay:180ms">
         <rect x="0" y="0" width="226.7" height="88" rx="12"
@@ -109,8 +109,8 @@
               stroke="#58a6ff" stroke-width="1.5" opacity="0.5" />
 
         <text x="86" y="38" class="t-stat-label">Commits</text>
-        <text x="86" y="66" class="t-stat-value">35</text>
-        <title>Commits: 35</title>
+        <text x="86" y="66" class="t-stat-value">36</text>
+        <title>Commits: 36</title>
       </g>
       <g transform="translate(238.7, 100)" class="fade" style="animation-delay:360ms">
         <rect x="0" y="0" width="226.7" height="88" rx="12"
