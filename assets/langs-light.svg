@@ -34,7 +34,7 @@
     </style>
 
     <defs>
-      <clipPath id="bar-7ptrfn">
+      <clipPath id="bar-bogef9">
         <rect x="0" y="0" width="704" height="14" rx="7" />
       </clipPath>
     </defs>
@@ -49,28 +49,28 @@
     <g transform="translate(0, 68)">
       <rect x="0" y="0" width="704" height="14" rx="7"
             fill="#eaeef2" />
-      <g clip-path="url(#bar-7ptrfn)">
-        <rect x="0.00" y="0" width="433.87" height="14"
+      <g clip-path="url(#bar-bogef9)">
+        <rect x="0.00" y="0" width="430.63" height="14"
           fill="#3178c6" class="fade" style="animation-delay:0ms">
-          <title>TypeScript — 61.6%</title>
+          <title>TypeScript — 61.2%</title>
         </rect>
-      <rect x="433.87" y="0" width="141.57" height="14"
+      <rect x="430.63" y="0" width="142.35" height="14"
           fill="#f1e05a" class="fade" style="animation-delay:90ms">
-          <title>JavaScript — 20.1%</title>
+          <title>JavaScript — 20.2%</title>
         </rect>
-      <rect x="575.43" y="0" width="52.29" height="14"
-          fill="#e34c26" class="fade" style="animation-delay:180ms">
-          <title>HTML — 7.4%</title>
+      <rect x="572.98" y="0" width="52.63" height="14"
+          fill="#336790" class="fade" style="animation-delay:180ms">
+          <title>PLpgSQL — 7.5%</title>
         </rect>
-      <rect x="627.72" y="0" width="51.86" height="14"
-          fill="#336790" class="fade" style="animation-delay:270ms">
-          <title>PLpgSQL — 7.4%</title>
+      <rect x="625.62" y="0" width="52.58" height="14"
+          fill="#e34c26" class="fade" style="animation-delay:270ms">
+          <title>HTML — 7.5%</title>
         </rect>
-      <rect x="679.59" y="0" width="14.14" height="14"
+      <rect x="678.20" y="0" width="15.47" height="14"
           fill="#3572A5" class="fade" style="animation-delay:360ms">
-          <title>Python — 2.0%</title>
+          <title>Python — 2.2%</title>
         </rect>
-      <rect x="693.72" y="0" width="10.28" height="14"
+      <rect x="693.67" y="0" width="10.33" height="14"
           fill="#663399" class="fade" style="animation-delay:450ms">
           <title>CSS — 1.5%</title>
         </rect>
@@ -88,8 +88,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#3178c6" />
         <text x="78" y="31" class="t-lang">TypeScript</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">61,6%</text>
-        <title>TypeScript — 61,6%</title>
+              class="t-pct">61,2%</text>
+        <title>TypeScript — 61,2%</title>
       </g>
       <g transform="translate(0.0, 60)" class="fade" style="animation-delay:270ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -101,23 +101,10 @@
         <circle cx="62" cy="26" r="4.5" fill="#f1e05a" />
         <text x="78" y="31" class="t-lang">JavaScript</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">20,1%</text>
-        <title>JavaScript — 20,1%</title>
+              class="t-pct">20,2%</text>
+        <title>JavaScript — 20,2%</title>
       </g>
       <g transform="translate(0.0, 120)" class="fade" style="animation-delay:360ms">
-        <rect x="0" y="0" width="344.0" height="52" rx="10"
-              fill="#eaeef2" stroke="#d0d7de" stroke-width="1" opacity="0.7" />
-        <g transform="translate(12, 9)">
-          <image x="0" y="0" width="34" height="34" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNFMTRFMUQiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00OCAzOEw1Ni42MDk4IDEzNC41OTNIMTY3LjMyTDE2My42MDUgMTc2LjAyM0wxMjcuOTU5IDE4NS42NjFMOTIuMzggMTc2LjAzN0w5MC4wMDEyIDE0OS40MzVINTcuOTM4OUw2Mi41MjM2IDIwMC43MTZMMTI3Ljk1MSAyMTguODg4TDE5My40NjEgMjAwLjcxNkwyMDIuMjQ0IDEwMi42NTVIODUuODI0MUw4Mi45MDEgNjkuOTQ0OEgyMDUuMDQxSDIwNS4xMzlMMjA4IDM4SDQ4WiIvPjxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0xMjggMzhINDhMNTYuNjA5OCAxMzQuNTkzSDEyOFYxMDIuNjU1SDg1LjgyNDFMODIuOTAxIDY5Ljk0NDhIMTI4VjM4WiIvPjxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0xMjggMTg1LjY0N0wxMjcuOTU5IDE4NS42NjFMOTIuMzggMTc2LjAzN0w5MC4wMDEyIDE0OS40MzVINTcuOTM4OEw2Mi41MjM2IDIwMC43MTZMMTI3Ljk1MSAyMTguODg4TDEyOCAyMTguODc0VjE4NS42NDdaIi8+PC9zdmc+"
-      preserveAspectRatio="xMidYMid meet" />
-        </g>
-        <circle cx="62" cy="26" r="4.5" fill="#e34c26" />
-        <text x="78" y="31" class="t-lang">HTML</text>
-        <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">7,4%</text>
-        <title>HTML — 7,4%</title>
-      </g>
-      <g transform="translate(360.0, 0)" class="fade" style="animation-delay:450ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
               fill="#eaeef2" stroke="#d0d7de" stroke-width="1" opacity="0.7" />
         <g transform="translate(12, 9)">
@@ -127,8 +114,21 @@
         <circle cx="62" cy="26" r="4.5" fill="#336790" />
         <text x="78" y="31" class="t-lang">PLpgSQL</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">7,4%</text>
-        <title>PLpgSQL — 7,4%</title>
+              class="t-pct">7,5%</text>
+        <title>PLpgSQL — 7,5%</title>
+      </g>
+      <g transform="translate(360.0, 0)" class="fade" style="animation-delay:450ms">
+        <rect x="0" y="0" width="344.0" height="52" rx="10"
+              fill="#eaeef2" stroke="#d0d7de" stroke-width="1" opacity="0.7" />
+        <g transform="translate(12, 9)">
+          <image x="0" y="0" width="34" height="34" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNFMTRFMUQiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik00OCAzOEw1Ni42MDk4IDEzNC41OTNIMTY3LjMyTDE2My42MDUgMTc2LjAyM0wxMjcuOTU5IDE4NS42NjFMOTIuMzggMTc2LjAzN0w5MC4wMDEyIDE0OS40MzVINTcuOTM4OUw2Mi41MjM2IDIwMC43MTZMMTI3Ljk1MSAyMTguODg4TDE5My40NjEgMjAwLjcxNkwyMDIuMjQ0IDEwMi42NTVIODUuODI0MUw4Mi45MDEgNjkuOTQ0OEgyMDUuMDQxSDIwNS4xMzlMMjA4IDM4SDQ4WiIvPjxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0xMjggMzhINDhMNTYuNjA5OCAxMzQuNTkzSDEyOFYxMDIuNjU1SDg1LjgyNDFMODIuOTAxIDY5Ljk0NDhIMTI4VjM4WiIvPjxwYXRoIGZpbGw9IiNFQkVCRUIiIGQ9Ik0xMjggMTg1LjY0N0wxMjcuOTU5IDE4NS42NjFMOTIuMzggMTc2LjAzN0w5MC4wMDEyIDE0OS40MzVINTcuOTM4OEw2Mi41MjM2IDIwMC43MTZMMTI3Ljk1MSAyMTguODg4TDEyOCAyMTguODc0VjE4NS42NDdaIi8+PC9zdmc+"
+      preserveAspectRatio="xMidYMid meet" />
+        </g>
+        <circle cx="62" cy="26" r="4.5" fill="#e34c26" />
+        <text x="78" y="31" class="t-lang">HTML</text>
+        <text x="328.0" y="31" text-anchor="end"
+              class="t-pct">7,5%</text>
+        <title>HTML — 7,5%</title>
       </g>
       <g transform="translate(360.0, 60)" class="fade" style="animation-delay:540ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -140,8 +140,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#3572A5" />
         <text x="78" y="31" class="t-lang">Python</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">2,0%</text>
-        <title>Python — 2,0%</title>
+              class="t-pct">2,2%</text>
+        <title>Python — 2,2%</title>
       </g>
       <g transform="translate(360.0, 120)" class="fade" style="animation-delay:630ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
