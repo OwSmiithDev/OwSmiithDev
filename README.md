@@ -54,6 +54,13 @@
 
 <p align="left">
   <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+    <img height="300" src="./assets/stats.svg" alt="Linguagens mais usadas no perfil">
+  </picture>
+</p>
+<p align="left">
+  <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="./assets/donut.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/donut-light.svg">
     <img height="300" src="./assets/donut.svg" alt="Linguagens mais usadas no perfil">
@@ -64,12 +71,18 @@ Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">GH-Gadgets</a>.
 </sub>
 <br>
 
-### 📱 Minhas redes:
+## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://wa.me/5562999718912" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
-
-  <a href="https://www.instagram.com/_mrsmiith/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
+  <a href="https://wa.me/5562999718912">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/Smiith_ia/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/OwSmiithDev">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" alt="GitHub"/>
+  </a>
 </p>
