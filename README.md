@@ -1,34 +1,46 @@
 ## 🖖 Olá, meu nome é <strong>Marcos Paulo!</strong>
-<h3> Conhecido também como Smiith, sou Amante da tecnologia e da programação!</h3>
 
-- 💻 Iniciando nas novas tecnologias e desenvolvendo projetos.
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unip.br">UNIP</a>.
-- 💼 Atualmente **Desenvolvedor Júnior**
-- 💻 Analista em **Automações IA com n8n e Python**
-- 💻 Frontend's com vida!
-- 🛠️ Integrações com API's
+<h3>
+  Conhecido também como <strong>Smiith</strong>, sou apaixonado por tecnologia,
+  programação, automação e desenvolvimento de soluções.
+</h3>
 
-## 🚀 Minhas Skills (Aprendendo)
+- 💻 Explorando novas tecnologias e desenvolvendo projetos
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://www.unip.br">UNIP</a>
+- 💼 Atualmente atuando como **Desenvolvedor Júnior**
+- 🤖 Automações e soluções de **IA com n8n e Python**
+- 🎨 Desenvolvimento **Frontend**
+- 🔗 Integrações e desenvolvimento de **APIs**
+
+## 🚀 Minhas Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,html,css,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,django,js,html,css,nodejs,typescript" />
   </a>
 </p>
 
-## 🛠️Ferramentas que uso
+## 💻 Desenvolvimento
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,discord,aws,git,github,netlify,notion,obsidian,postgres,postman,powershell,redis,sqlite,selenium,threejs," />
+    <img src="https://skillicons.dev/icons?i=react,vue,supabase,mongodb,pytorch,threejs" />
   </a>
 </p>
 
-## 🛠️Ferramentas de desenvolvimento
+## 🧰 Ferramentas que utilizo
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,typescript,python,supabase,django,mongodb,js,html,css,nodejs,gcp,cloudflare,docker,codepen,github,pytorch,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,discord,git,github,notion,obsidian,postman,powershell,figma,codepen" />
+  </a>
+</p>
+
+## ☁️ Cloud, Infraestrutura & Deploy
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,netlify,vercel,redis,postgres,sqlite" />
   </a>
 </p>
 
