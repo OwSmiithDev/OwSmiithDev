@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner de programação">
+</p>
+
+<br>
+
 ## 🖖 Olá, meu nome é <strong>Marcos Paulo!</strong>
 
 <h3>
