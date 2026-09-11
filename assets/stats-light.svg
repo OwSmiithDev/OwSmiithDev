@@ -92,8 +92,8 @@
               stroke="#0969da" stroke-width="1.5" opacity="0.5" />
 
         <text x="86" y="38" class="t-stat-label">Seguidores</text>
-        <text x="86" y="66" class="t-stat-value">2</text>
-        <title>Seguidores: 2</title>
+        <text x="86" y="66" class="t-stat-value">1</text>
+        <title>Seguidores: 1</title>
       </g>
       <g transform="translate(0.0, 100)" class="fade" style="animation-delay:270ms">
         <rect x="0" y="0" width="226.7" height="88" rx="12"
