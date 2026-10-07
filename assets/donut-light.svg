@@ -72,36 +72,36 @@
       <g transform="rotate(-90 162.0 105.0)">
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#3178c6" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="227.22 350.83"
+          stroke-dasharray="188.68 389.37"
           stroke-dashoffset="0.00"
           class="fade" style="animation-delay:0ms">
-          <title>TypeScript — 40.0%</title>
+          <title>TypeScript — 33.3%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#f1e05a" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="111.61 466.44"
-          stroke-dashoffset="-231.22"
+          stroke-dasharray="124.46 453.60"
+          stroke-dashoffset="-192.68"
           class="fade" style="animation-delay:90ms">
-          <title>JavaScript — 20.0%</title>
+          <title>JavaScript — 22.2%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#3572A5" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="111.61 466.44"
-          stroke-dashoffset="-346.83"
+          stroke-dasharray="124.46 453.60"
+          stroke-dashoffset="-321.14"
           class="fade" style="animation-delay:180ms">
-          <title>Python — 20.0%</title>
+          <title>Python — 22.2%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#e34c26" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="111.61 466.44"
-          stroke-dashoffset="-462.44"
+          stroke-dasharray="124.46 453.60"
+          stroke-dashoffset="-449.60"
           class="fade" style="animation-delay:270ms">
-          <title>HTML — 20.0%</title>
+          <title>HTML — 22.2%</title>
         </circle>
       </g>
 
       <text x="162.0" y="115.0" text-anchor="middle"
-            class="t-ring-v">10</text>
+            class="t-ring-v">9</text>
       <text x="162.0" y="137.0" text-anchor="middle"
             class="t-ring-l">REPOSITÓRIOS</text>
 
@@ -115,9 +115,9 @@
         </g>
         <text x="52" y="25" class="t-lang">TypeScript</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#2964a5">40,0%</text>
+              class="t-pct" fill="#2964a5">33,3%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#3178c6" />
-        <title>TypeScript — 40,0%</title>
+        <title>TypeScript — 33,3%</title>
       </g>
       <g transform="translate(0, 48)" class="fade" style="animation-delay:270ms">
         <rect x="0" y="0" width="352" height="40" rx="10"
@@ -128,9 +128,9 @@
         </g>
         <text x="52" y="25" class="t-lang">JavaScript</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#75690a">20,0%</text>
+              class="t-pct" fill="#75690a">22,2%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#f1e05a" />
-        <title>JavaScript — 20,0%</title>
+        <title>JavaScript — 22,2%</title>
       </g>
       <g transform="translate(0, 96)" class="fade" style="animation-delay:360ms">
         <rect x="0" y="0" width="352" height="40" rx="10"
@@ -141,9 +141,9 @@
         </g>
         <text x="52" y="25" class="t-lang">Python</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#306796">20,0%</text>
+              class="t-pct" fill="#306796">22,2%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#3572A5" />
-        <title>Python — 20,0%</title>
+        <title>Python — 22,2%</title>
       </g>
       <g transform="translate(0, 144)" class="fade" style="animation-delay:450ms">
         <rect x="0" y="0" width="352" height="40" rx="10"
@@ -154,9 +154,9 @@
         </g>
         <text x="52" y="25" class="t-lang">HTML</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#b53717">20,0%</text>
+              class="t-pct" fill="#b53717">22,2%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#e34c26" />
-        <title>HTML — 20,0%</title>
+        <title>HTML — 22,2%</title>
       </g>
       </g>
     </g>
@@ -178,7 +178,7 @@
               fill="#eaeef2" stroke="#d0d7de" stroke-width="1" />
         <circle cx="19" cy="9" r="4" fill="#2ea043" />
         <circle cx="19" cy="9" r="4" fill="#2ea043" opacity="0.35" class="pulse" />
-        <text x="32" y="13" class="t-stamp">Atualizado em 06/10</text>
+        <text x="32" y="13" class="t-stamp">Atualizado em 07/10</text>
       </g>
     </g>
   </g>

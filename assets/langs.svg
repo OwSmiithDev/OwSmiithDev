@@ -50,29 +50,29 @@
       <rect x="0" y="0" width="704" height="14" rx="7"
             fill="#21262d" />
       <g clip-path="url(#bar-7ptrfn)">
-        <rect x="0.00" y="0" width="452.39" height="14"
+        <rect x="0.00" y="0" width="420.86" height="14"
           fill="#3178c6" class="fade" style="animation-delay:0ms">
-          <title>TypeScript — 64.3%</title>
+          <title>TypeScript — 59.8%</title>
         </rect>
-      <rect x="452.39" y="0" width="124.08" height="14"
+      <rect x="420.86" y="0" width="146.15" height="14"
           fill="#f1e05a" class="fade" style="animation-delay:90ms">
-          <title>JavaScript — 17.6%</title>
+          <title>JavaScript — 20.8%</title>
         </rect>
-      <rect x="576.47" y="0" width="43.63" height="14"
+      <rect x="567.01" y="0" width="51.20" height="14"
           fill="#e34c26" class="fade" style="animation-delay:180ms">
-          <title>HTML — 6.2%</title>
+          <title>HTML — 7.3%</title>
         </rect>
-      <rect x="620.10" y="0" width="42.83" height="14"
+      <rect x="618.21" y="0" width="37.86" height="14"
           fill="#336790" class="fade" style="animation-delay:270ms">
-          <title>PLpgSQL — 6.1%</title>
+          <title>PLpgSQL — 5.4%</title>
         </rect>
-      <rect x="662.93" y="0" width="30.26" height="14"
+      <rect x="656.07" y="0" width="35.64" height="14"
           fill="#3572A5" class="fade" style="animation-delay:360ms">
-          <title>Python — 4.3%</title>
+          <title>Python — 5.1%</title>
         </rect>
-      <rect x="693.19" y="0" width="10.81" height="14"
+      <rect x="691.71" y="0" width="12.29" height="14"
           fill="#663399" class="fade" style="animation-delay:450ms">
-          <title>CSS — 1.5%</title>
+          <title>CSS — 1.7%</title>
         </rect>
       </g>
     </g>
@@ -88,8 +88,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#3178c6" />
         <text x="78" y="31" class="t-lang">TypeScript</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">64,3%</text>
-        <title>TypeScript — 64,3%</title>
+              class="t-pct">59,8%</text>
+        <title>TypeScript — 59,8%</title>
       </g>
       <g transform="translate(0.0, 60)" class="fade" style="animation-delay:270ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -101,8 +101,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#f1e05a" />
         <text x="78" y="31" class="t-lang">JavaScript</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">17,6%</text>
-        <title>JavaScript — 17,6%</title>
+              class="t-pct">20,8%</text>
+        <title>JavaScript — 20,8%</title>
       </g>
       <g transform="translate(0.0, 120)" class="fade" style="animation-delay:360ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -114,8 +114,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#e34c26" />
         <text x="78" y="31" class="t-lang">HTML</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">6,2%</text>
-        <title>HTML — 6,2%</title>
+              class="t-pct">7,3%</text>
+        <title>HTML — 7,3%</title>
       </g>
       <g transform="translate(360.0, 0)" class="fade" style="animation-delay:450ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -127,8 +127,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#336790" />
         <text x="78" y="31" class="t-lang">PLpgSQL</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">6,1%</text>
-        <title>PLpgSQL — 6,1%</title>
+              class="t-pct">5,4%</text>
+        <title>PLpgSQL — 5,4%</title>
       </g>
       <g transform="translate(360.0, 60)" class="fade" style="animation-delay:540ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -140,8 +140,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#3572A5" />
         <text x="78" y="31" class="t-lang">Python</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">4,3%</text>
-        <title>Python — 4,3%</title>
+              class="t-pct">5,1%</text>
+        <title>Python — 5,1%</title>
       </g>
       <g transform="translate(360.0, 120)" class="fade" style="animation-delay:630ms">
         <rect x="0" y="0" width="344.0" height="52" rx="10"
@@ -153,8 +153,8 @@
         <circle cx="62" cy="26" r="4.5" fill="#663399" />
         <text x="78" y="31" class="t-lang">CSS</text>
         <text x="328.0" y="31" text-anchor="end"
-              class="t-pct">1,5%</text>
-        <title>CSS — 1,5%</title>
+              class="t-pct">1,7%</text>
+        <title>CSS — 1,7%</title>
       </g>
     </g>
   </g>
