@@ -68,69 +68,69 @@
     <g transform="translate(0, 74)">
       <g filter="url(#glow)" opacity="0.38">
         <g transform="rotate(-90 162.0 105.0)"><circle cx="162.0" cy="105.0" r="92.0"
-          fill="none" stroke="#3178c6" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="188.68 389.37"
+          fill="none" stroke="#f1e05a" stroke-width="26" stroke-linecap="butt"
+          stroke-dasharray="169.42 408.64"
           stroke-dashoffset="0.00"
           class="fade" style="animation-delay:0ms">
-          <title>TypeScript — 33.3%</title>
+          <title>JavaScript — 30.0%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
-          fill="none" stroke="#f1e05a" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="124.46 453.60"
-          stroke-dashoffset="-192.68"
+          fill="none" stroke="#3178c6" stroke-width="26" stroke-linecap="butt"
+          stroke-dasharray="169.42 408.64"
+          stroke-dashoffset="-173.42"
           class="fade" style="animation-delay:90ms">
-          <title>JavaScript — 22.2%</title>
+          <title>TypeScript — 30.0%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#3572A5" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="124.46 453.60"
-          stroke-dashoffset="-321.14"
+          stroke-dasharray="111.61 466.44"
+          stroke-dashoffset="-346.83"
           class="fade" style="animation-delay:180ms">
-          <title>Python — 22.2%</title>
+          <title>Python — 20.0%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#e34c26" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="124.46 453.60"
-          stroke-dashoffset="-449.60"
+          stroke-dasharray="111.61 466.44"
+          stroke-dashoffset="-462.44"
           class="fade" style="animation-delay:270ms">
-          <title>HTML — 22.2%</title>
+          <title>HTML — 20.0%</title>
         </circle></g>
       </g>
       <circle cx="162.0" cy="105.0" r="92.0" fill="none"
               stroke="#21262d" stroke-width="26" />
       <g transform="rotate(-90 162.0 105.0)">
         <circle cx="162.0" cy="105.0" r="92.0"
-          fill="none" stroke="#3178c6" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="188.68 389.37"
+          fill="none" stroke="#f1e05a" stroke-width="26" stroke-linecap="butt"
+          stroke-dasharray="169.42 408.64"
           stroke-dashoffset="0.00"
           class="fade" style="animation-delay:0ms">
-          <title>TypeScript — 33.3%</title>
+          <title>JavaScript — 30.0%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
-          fill="none" stroke="#f1e05a" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="124.46 453.60"
-          stroke-dashoffset="-192.68"
+          fill="none" stroke="#3178c6" stroke-width="26" stroke-linecap="butt"
+          stroke-dasharray="169.42 408.64"
+          stroke-dashoffset="-173.42"
           class="fade" style="animation-delay:90ms">
-          <title>JavaScript — 22.2%</title>
+          <title>TypeScript — 30.0%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#3572A5" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="124.46 453.60"
-          stroke-dashoffset="-321.14"
+          stroke-dasharray="111.61 466.44"
+          stroke-dashoffset="-346.83"
           class="fade" style="animation-delay:180ms">
-          <title>Python — 22.2%</title>
+          <title>Python — 20.0%</title>
         </circle>
         <circle cx="162.0" cy="105.0" r="92.0"
           fill="none" stroke="#e34c26" stroke-width="26" stroke-linecap="butt"
-          stroke-dasharray="124.46 453.60"
-          stroke-dashoffset="-449.60"
+          stroke-dasharray="111.61 466.44"
+          stroke-dashoffset="-462.44"
           class="fade" style="animation-delay:270ms">
-          <title>HTML — 22.2%</title>
+          <title>HTML — 20.0%</title>
         </circle>
       </g>
 
       <text x="162.0" y="115.0" text-anchor="middle"
-            class="t-ring-v">9</text>
+            class="t-ring-v">10</text>
       <text x="162.0" y="137.0" text-anchor="middle"
             class="t-ring-l">REPOSITÓRIOS</text>
 
@@ -139,27 +139,27 @@
         <rect x="0" y="0" width="352" height="40" rx="10"
               fill="#21262d" stroke="#30363d" stroke-width="1" opacity="0.9" />
         <g transform="translate(14, 7)">
-          <image x="0" y="0" width="26" height="26" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMwMDdBQ0MiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01Ni42MTEyIDEyOC44NDlMNTYuNTI5OSAxMzkuMzMzSDczLjE5MDJIODkuODUwNUw4OS44NTA1IDE4Ni42NzNWMjM0LjAxMkgxMDEuNjM1SDExMy40MTlWMTg2LjY3M0wxMTMuNDE5IDEzOS4zMzNIMTMwLjA3OUgxNDYuNzM5VjEyOS4wNTJDMTQ2LjczOSAxMjMuMzYzIDE0Ni42MTggMTE4LjYwOSAxNDYuNDU1IDExOC40ODdDMTQ2LjMzMyAxMTguMzI1IDEyNi4wNTYgMTE4LjI0MyAxMDEuNDcyIDExOC4yODRMNTYuNzMzMSAxMTguNDA2TDU2LjYxMTIgMTI4Ljg0OVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjA2LjU2NyAxMTguMTA4QzIxMy4wNjggMTE5LjczNCAyMTguMDI2IDEyMi42MTkgMjIyLjU3NyAxMjcuMzMyQzIyNC45MzQgMTI5Ljg1MiAyMjguNDI4IDEzNC40NDQgMjI4LjcxMyAxMzUuNTQxQzIyOC43OTQgMTM1Ljg2NiAyMTcuNjYgMTQzLjM0MyAyMTAuOTE1IDE0Ny41MjhDMjEwLjY3MSAxNDcuNjkxIDIwOS42OTUgMTQ2LjYzNCAyMDguNTk4IDE0NS4wMDlDMjA1LjMwNyAxNDAuMjE0IDIwMS44NTMgMTM4LjE0MSAxOTYuNTcgMTM3Ljc3NkMxODguODA5IDEzNy4yNDcgMTgzLjgxMSAxNDEuMzExIDE4My44NTIgMTQ4LjA5N0MxODMuODUyIDE1MC4wODggMTg0LjEzNiAxNTEuMjY2IDE4NC45NDkgMTUyLjg5MkMxODYuNjU1IDE1Ni40MjcgMTg5LjgyNSAxNTguNTQgMTk5Ljc4MSAxNjIuODQ3QzIxOC4xMDcgMTcwLjczMSAyMjUuOTQ5IDE3NS45MzIgMjMwLjgyNiAxODMuMzI3QzIzNi4yNzEgMTkxLjU3NiAyMzcuNDkgMjA0Ljc0MiAyMzMuNzkyIDIxNC41MzVDMjI5LjcyOSAyMjUuMTgxIDIxOS42NTEgMjMyLjQxNCAyMDUuNDY5IDIzNC44MTJDMjAxLjA4MSAyMzUuNTg0IDE5MC42NzggMjM1LjQ2MiAxODUuOTY1IDIzNC42MDlDMTc1LjY4NCAyMzIuNzggMTY1LjkzMiAyMjcuNzAxIDE1OS45MTggMjIxLjAzN0MxNTcuNTYxIDIxOC40MzYgMTUyLjk2OSAyMTEuNjUgMTUzLjI1NCAyMTEuMTYyQzE1My4zNzUgMjExIDE1NC40MzIgMjEwLjM1IDE1NS42MSAyMDkuNjU5QzE1Ni43NDggMjA5LjAwOSAxNjEuMDU2IDIwNi41MyAxNjUuMTE5IDIwNC4xNzNMMTcyLjQ3NCAxOTkuOTA2TDE3NC4wMTggMjAyLjE4MkMxNzYuMTcyIDIwNS40NzMgMTgwLjg4NSAyMDkuOTg0IDE4My43MyAyMTEuNDg3QzE5MS44OTcgMjE1Ljc5NSAyMDMuMTEzIDIxNS4xODUgMjA4LjYzOSAyMTAuMjI4QzIxMC45OTYgMjA4LjA3NCAyMTEuOTcxIDIwNS44MzkgMjExLjk3MSAyMDIuNTQ4QzIxMS45NzEgMTk5LjU4MSAyMTEuNjA1IDE5OC4yODEgMjEwLjA2MSAxOTYuMDQ2QzIwOC4wNyAxOTMuMjAyIDIwNC4wMDcgMTkwLjgwNCAxOTIuNDY2IDE4NS44MDZDMTc5LjI2IDE4MC4xMTcgMTczLjU3MSAxNzYuNTgyIDE2OC4zNyAxNzAuOTc0QzE2NS4zNjMgMTY3LjcyNCAxNjIuNTE4IDE2Mi41MjIgMTYxLjM0IDE1OC4xNzRDMTYwLjM2NSAxNTQuNTU4IDE2MC4xMjEgMTQ1LjQ5NiAxNjAuODkzIDE0MS44MzlDMTYzLjYxNSAxMjkuMDggMTczLjI0NiAxMjAuMTgxIDE4Ny4xNDMgMTE3LjUzOUMxOTEuNjU0IDExNi42ODYgMjAyLjEzNyAxMTcuMDExIDIwNi41NjcgMTE4LjEwOFoiLz48L3N2Zz4="
-      preserveAspectRatio="xMidYMid meet" />
-        </g>
-        <text x="52" y="25" class="t-lang">TypeScript</text>
-        <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#5d97d7">33,3%</text>
-        <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#3178c6" />
-        <title>TypeScript — 33,3%</title>
-      </g>
-      <g transform="translate(0, 48)" class="fade" style="animation-delay:270ms">
-        <rect x="0" y="0" width="352" height="40" rx="10"
-              fill="#21262d" stroke="#30363d" stroke-width="1" opacity="0.9" />
-        <g transform="translate(14, 7)">
           <image x="0" y="0" width="26" height="26" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiNGMERCNEYiLz4KPHBhdGggZD0iTTY3LjMxMTcgMjEzLjkzMkw4Ni45MDI3IDIwMi4wNzZDOTAuNjgyMSAyMDguNzc3IDk0LjEyMDIgMjE0LjQ0NyAxMDIuMzY3IDIxNC40NDdDMTEwLjI3MiAyMTQuNDQ3IDExNS4yNTYgMjExLjM1NSAxMTUuMjU2IDE5OS4zMjdWMTE3LjUyOUgxMzkuMzE0VjE5OS42NjdDMTM5LjMxNCAyMjQuNTg0IDEyNC43MDggMjM1LjkyNiAxMDMuMzk4IDIzNS45MjZDODQuMTUzMyAyMzUuOTI2IDcyLjk4MTkgMjI1Ljk1OSA2Ny4zMTEzIDIxMy45MyIgZmlsbD0iIzMyMzMzMCIvPgo8cGF0aCBkPSJNMTUyLjM4MSAyMTEuMzU0TDE3MS45NjkgMjAwLjAxM0MxNzcuMTI2IDIwOC40MzQgMTgzLjgyOCAyMTQuNjIgMTk1LjY4NCAyMTQuNjJDMjA1LjY1MyAyMTQuNjIgMjEyLjAwOSAyMDkuNjM2IDIxMi4wMDkgMjAyLjc2MkMyMTIuMDA5IDE5NC41MTQgMjA1LjQ3OSAxOTEuNTkyIDE5NC40ODEgMTg2Ljc4MkwxODguNDY4IDE4NC4yMDNDMTcxLjExMSAxNzYuODE1IDE1OS41OTcgMTY3LjUzNSAxNTkuNTk3IDE0Ny45NDVDMTU5LjU5NyAxMjkuOTAxIDE3My4zNDUgMTE2LjE1MyAxOTQuODI2IDExNi4xNTNDMjEwLjEyIDExNi4xNTMgMjIxLjExOCAxMjEuNDgxIDIyOS4wMjIgMTM1LjRMMjEwLjI5MSAxNDcuNDI5QzIwNi4xNjYgMTQwLjA0IDIwMS43IDEzNy4xMTkgMTk0LjgyNiAxMzcuMTE5QzE4Ny43OCAxMzcuMTE5IDE4My4zMTIgMTQxLjU4NyAxODMuMzEyIDE0Ny40MjlDMTgzLjMxMiAxNTQuNjQ2IDE4Ny43OCAxNTcuNTY4IDE5OC4wOSAxNjIuMDM3TDIwNC4xMDQgMTY0LjYxNEMyMjQuNTUzIDE3My4zNzkgMjM2LjA2NyAxODIuMzEzIDIzNi4wNjcgMjAyLjQxOEMyMzYuMDY3IDIyNC4wNzIgMjE5LjA1NSAyMzUuOTI4IDE5Ni4yIDIzNS45MjhDMTczLjg2MSAyMzUuOTI4IDE1OS40MjYgMjI1LjI3NCAxNTIuMzgxIDIxMS4zNTQiIGZpbGw9IiMzMjMzMzAiLz4KPC9zdmc+"
       preserveAspectRatio="xMidYMid meet" />
         </g>
         <text x="52" y="25" class="t-lang">JavaScript</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#f1e05a">22,2%</text>
+              class="t-pct" fill="#f1e05a">30,0%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#f1e05a" />
-        <title>JavaScript — 22,2%</title>
+        <title>JavaScript — 30,0%</title>
+      </g>
+      <g transform="translate(0, 48)" class="fade" style="animation-delay:270ms">
+        <rect x="0" y="0" width="352" height="40" rx="10"
+              fill="#21262d" stroke="#30363d" stroke-width="1" opacity="0.9" />
+        <g transform="translate(14, 7)">
+          <image x="0" y="0" width="26" height="26" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiMwMDdBQ0MiIHJ4PSI2MCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik01Ni42MTEyIDEyOC44NDlMNTYuNTI5OSAxMzkuMzMzSDczLjE5MDJIODkuODUwNUw4OS44NTA1IDE4Ni42NzNWMjM0LjAxMkgxMDEuNjM1SDExMy40MTlWMTg2LjY3M0wxMTMuNDE5IDEzOS4zMzNIMTMwLjA3OUgxNDYuNzM5VjEyOS4wNTJDMTQ2LjczOSAxMjMuMzYzIDE0Ni42MTggMTE4LjYwOSAxNDYuNDU1IDExOC40ODdDMTQ2LjMzMyAxMTguMzI1IDEyNi4wNTYgMTE4LjI0MyAxMDEuNDcyIDExOC4yODRMNTYuNzMzMSAxMTguNDA2TDU2LjYxMTIgMTI4Ljg0OVoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjA2LjU2NyAxMTguMTA4QzIxMy4wNjggMTE5LjczNCAyMTguMDI2IDEyMi42MTkgMjIyLjU3NyAxMjcuMzMyQzIyNC45MzQgMTI5Ljg1MiAyMjguNDI4IDEzNC40NDQgMjI4LjcxMyAxMzUuNTQxQzIyOC43OTQgMTM1Ljg2NiAyMTcuNjYgMTQzLjM0MyAyMTAuOTE1IDE0Ny41MjhDMjEwLjY3MSAxNDcuNjkxIDIwOS42OTUgMTQ2LjYzNCAyMDguNTk4IDE0NS4wMDlDMjA1LjMwNyAxNDAuMjE0IDIwMS44NTMgMTM4LjE0MSAxOTYuNTcgMTM3Ljc3NkMxODguODA5IDEzNy4yNDcgMTgzLjgxMSAxNDEuMzExIDE4My44NTIgMTQ4LjA5N0MxODMuODUyIDE1MC4wODggMTg0LjEzNiAxNTEuMjY2IDE4NC45NDkgMTUyLjg5MkMxODYuNjU1IDE1Ni40MjcgMTg5LjgyNSAxNTguNTQgMTk5Ljc4MSAxNjIuODQ3QzIxOC4xMDcgMTcwLjczMSAyMjUuOTQ5IDE3NS45MzIgMjMwLjgyNiAxODMuMzI3QzIzNi4yNzEgMTkxLjU3NiAyMzcuNDkgMjA0Ljc0MiAyMzMuNzkyIDIxNC41MzVDMjI5LjcyOSAyMjUuMTgxIDIxOS42NTEgMjMyLjQxNCAyMDUuNDY5IDIzNC44MTJDMjAxLjA4MSAyMzUuNTg0IDE5MC42NzggMjM1LjQ2MiAxODUuOTY1IDIzNC42MDlDMTc1LjY4NCAyMzIuNzggMTY1LjkzMiAyMjcuNzAxIDE1OS45MTggMjIxLjAzN0MxNTcuNTYxIDIxOC40MzYgMTUyLjk2OSAyMTEuNjUgMTUzLjI1NCAyMTEuMTYyQzE1My4zNzUgMjExIDE1NC40MzIgMjEwLjM1IDE1NS42MSAyMDkuNjU5QzE1Ni43NDggMjA5LjAwOSAxNjEuMDU2IDIwNi41MyAxNjUuMTE5IDIwNC4xNzNMMTcyLjQ3NCAxOTkuOTA2TDE3NC4wMTggMjAyLjE4MkMxNzYuMTcyIDIwNS40NzMgMTgwLjg4NSAyMDkuOTg0IDE4My43MyAyMTEuNDg3QzE5MS44OTcgMjE1Ljc5NSAyMDMuMTEzIDIxNS4xODUgMjA4LjYzOSAyMTAuMjI4QzIxMC45OTYgMjA4LjA3NCAyMTEuOTcxIDIwNS44MzkgMjExLjk3MSAyMDIuNTQ4QzIxMS45NzEgMTk5LjU4MSAyMTEuNjA1IDE5OC4yODEgMjEwLjA2MSAxOTYuMDQ2QzIwOC4wNyAxOTMuMjAyIDIwNC4wMDcgMTkwLjgwNCAxOTIuNDY2IDE4NS44MDZDMTc5LjI2IDE4MC4xMTcgMTczLjU3MSAxNzYuNTgyIDE2OC4zNyAxNzAuOTc0QzE2NS4zNjMgMTY3LjcyNCAxNjIuNTE4IDE2Mi41MjIgMTYxLjM0IDE1OC4xNzRDMTYwLjM2NSAxNTQuNTU4IDE2MC4xMjEgMTQ1LjQ5NiAxNjAuODkzIDE0MS44MzlDMTYzLjYxNSAxMjkuMDggMTczLjI0NiAxMjAuMTgxIDE4Ny4xNDMgMTE3LjUzOUMxOTEuNjU0IDExNi42ODYgMjAyLjEzNyAxMTcuMDExIDIwNi41NjcgMTE4LjEwOFoiLz48L3N2Zz4="
+      preserveAspectRatio="xMidYMid meet" />
+        </g>
+        <text x="52" y="25" class="t-lang">TypeScript</text>
+        <text x="332" y="25" text-anchor="end"
+              class="t-pct" fill="#5d97d7">30,0%</text>
+        <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#3178c6" />
+        <title>TypeScript — 30,0%</title>
       </g>
       <g transform="translate(0, 96)" class="fade" style="animation-delay:360ms">
         <rect x="0" y="0" width="352" height="40" rx="10"
@@ -170,9 +170,9 @@
         </g>
         <text x="52" y="25" class="t-lang">Python</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#5091c7">22,2%</text>
+              class="t-pct" fill="#5091c7">20,0%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#3572A5" />
-        <title>Python — 22,2%</title>
+        <title>Python — 20,0%</title>
       </g>
       <g transform="translate(0, 144)" class="fade" style="animation-delay:450ms">
         <rect x="0" y="0" width="352" height="40" rx="10"
@@ -183,9 +183,9 @@
         </g>
         <text x="52" y="25" class="t-lang">HTML</text>
         <text x="332" y="25" text-anchor="end"
-              class="t-pct" fill="#e86a4a">22,2%</text>
+              class="t-pct" fill="#e86a4a">20,0%</text>
         <rect x="344" y="9" width="3" height="22" rx="1.5" fill="#e34c26" />
-        <title>HTML — 22,2%</title>
+        <title>HTML — 20,0%</title>
       </g>
       </g>
     </g>
