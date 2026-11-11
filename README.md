@@ -74,11 +74,7 @@ Feito com <a href="https://github.com/OwSmiithDev/gh-gadgets">GH-Gadgets</a>.
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://wa.me/5562999718912">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/Smiith_ia/">
+   <a href="https://www.instagram.com/Smiith_ia/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
